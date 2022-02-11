@@ -45,7 +45,7 @@ while running:
 	mouse_posText = addText(f"x = {x} y = {y}", "#000000", 30)
 	
 	# for button
-	btn_img = pygame.image.load("../assets/undo.png")
+	btn_img = pygame.image.load("undo.png")
 	btnScaled = pygame.transform.scale(btn_img, (200,100))
 	btn = btnScaled.get_rect()	
 	
