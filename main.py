@@ -1,5 +1,6 @@
-# pygame-draw-rect
-# author : Sam Genoguin
+# title : pygame-draw-rect
+# author : Sam Genoguin 
+# country : Philippines
 
 # importing needed modules
 import pygame
