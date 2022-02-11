@@ -1,7 +1,7 @@
 # pygame-draw-rect
-# author : Sam Genoguin
-# country : Philippines
-# language used : Python
+#### author : Sam Genoguin
+#### country : Philippines
+#### language used : Python
 
 This is a very simple, satisfying project.
 
