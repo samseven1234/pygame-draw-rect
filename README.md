@@ -1,12 +1,14 @@
 # pygame-draw-rect
-#### author : Sam Genoguin
-#### country : Philippines
-#### language used : Python
 
 This is a very simple, satisfying project.
 
-This was created with PyGame library that enable us
+This was created with `pygame` library that enable us
 To load images, and creating a rect objects.
+
+If you haven't yet installed 
+PyGame module, you can install it first
+in the terminal/command line through
+`pip install pygame`.
 
 After running main.py, you can now click anywhere
 And some rect objects will appear at the position
